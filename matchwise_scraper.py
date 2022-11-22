@@ -66,7 +66,7 @@ def scroll_page_to_get_data(driver, idx, url):
 
 
 def scrape_runs_per_ball_data(driver):
-    runs_elements = driver.find_elements(By.XPATH,"//div[@class='ds-leading-none ds-mb-0.5']")
+    runs_elements = driver.find_elements(By.XPATH,"//div[@class='ds-ml-4 lg:ds-ml-3']")
     return runs_elements
 
 def scrape_balls_of_innings(driver):
@@ -76,7 +76,9 @@ def scrape_balls_of_innings(driver):
 def get_list_of_runs(runs_elems):
     runs_list = []
     for runs in runs_elems:
-        runs_list.append(runs.text)
+        run_text = runs.text
+        final_run_str = run_text.split('\n')[0]
+        runs_list.append(final_run_str)
     return runs_list[::-1]
 
 def get_list_of_balls(ball_elems):
@@ -145,9 +147,12 @@ def extract_run(runs):
     return run
 
 
-def prepare_csv(writer,final_ball_list,final_run_list):
+def prepare_csv(writer, match_id, final_ball_list,final_run_list):
     total = 0
-    
+    print("What is length of ball list", len(final_ball_list))
+    print("WHat is length of final run list", len(final_run_list))
+    print(final_ball_list)
+    print(final_run_list)
     for ball in range (len(final_ball_list)):
         run = extract_run(final_run_list[ball])
         wide = is_wide(final_run_list[ball])
@@ -157,12 +162,12 @@ def prepare_csv(writer,final_ball_list,final_run_list):
         bye = is_bye(final_run_list[ball])
         total +=run
         print(final_ball_list[ball]," ", run, " ",wide, " ", no_ball, " ", wicket," ",leg_bye," ",bye,"",total)
-        write_to_csv(writer,[final_ball_list[ball],run,wide,no_ball,wicket,leg_bye,bye,total])
+        write_to_csv(writer,[match_id,final_ball_list[ball],run,wide,no_ball,wicket,leg_bye,bye,total])
 
     print("Total", total)
 
 def prepareUrlsToScrape():
-    file1 = open('url_extraction/2019_links.txt', 'r')
+    file1 = open('url_extraction/htmls/test_links.txt', 'r')
     Lines = file1.readlines()
     
     list = []
@@ -172,15 +177,16 @@ def prepareUrlsToScrape():
     return list
 
 def main():
-    # driver = webdriver.Chrome('/Users/aokiji/Downloads/chromedriver')
-    driver = webdriver.Firefox()
+    driver = webdriver.Chrome('/Users/aokiji/Downloads/chromedriver')
+    # driver = webdriver.Firefox()
 
-    headers =["ball_no","run","is_wide","is_noBall","Wicket","is_legBye","isBye","totalScore"]
+    headers =["match_id","ball_no","run","is_wide","is_noBall","Wicket","is_legBye","isBye","totalScore"]
     f = open("iplScore.csv","w")
     writer = csv.writer(f)
     writer.writerow(headers)
 
     urls = prepareUrlsToScrape()
+    match_id = 1
 
     for idx, url in enumerate(urls):
         print('starting scraping for url ', url)
@@ -189,7 +195,8 @@ def main():
         ball_data = scrape_balls_of_innings(driver_obj)
         runs_list = get_list_of_runs(run_data)
         balls_list = get_list_of_balls(ball_data)
-        prepare_csv(writer,balls_list,runs_list)
+        prepare_csv(writer,match_id,balls_list,runs_list)
+        match_id+=1
 
     f.close()
 
