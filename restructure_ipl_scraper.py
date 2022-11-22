@@ -38,15 +38,22 @@ def is_wicket(ball_data):
 
 
 
-def scroll_page_to_get_data(driver, url):
+def scroll_page_to_get_data(driver, idx, url):
     driver.get(url)
+    
+    driver.implicitly_wait(5)
+    if(idx == 0):
+        driver.find_element(By.ID,"onetrust-accept-btn-handler").click()
+        driver.implicitly_wait(5)
+    driver.find_element(By.XPATH,"//span[contains(text(), 'Commentary')]").click()
+    
     scroll_pause_time = 3 # You can set your own pause time. My laptop is a bit slow so I use 1 sec
     screen_height = driver.execute_script("return window.screen.height;")   # get the screen height of the web
     i = 1
 
     for count in range(0,20):
         # scroll one screen height each time
-        driver.execute_script("window.scrollTo(0, {screen_height}*{i});".format(screen_height=screen_height, i=i))  
+        driver.execute_script("window.scrollTo(0, {screen_height}*{i});".format(screen_height=screen_height, i=0.7*i))  
         i += 1
         time.sleep(scroll_pause_time)
         # update scroll height each time after scrolled, as the scroll height can change after we scrolled the page
@@ -156,14 +163,20 @@ def prepare_csv(writer,final_ball_list,final_run_list):
 
 
 def main():
-    driver = webdriver.Chrome('/Users/aokiji/Downloads/chromedriver')
+    # driver = webdriver.Chrome('/Users/aokiji/Downloads/chromedriver')
+    driver = webdriver.Firefox()
+
     headers =["ball_no","run","is_wide","is_noBall","Wicket","is_legBye","isBye","totalScore"]
     f = open("iplScore.csv","w")
     writer = csv.writer(f)
     writer.writerow(headers)
-    urls = ["https://www.espncricinfo.com/series/ipl-2020-21-1210595/kolkata-knight-riders-vs-mumbai-indians-5th-match-1216508/ball-by-ball-commentary", "https://www.espncricinfo.com/series/ipl-2020-21-1210595/sunrisers-hyderabad-vs-royal-challengers-bangalore-3rd-match-1216534/ball-by-ball-commentary","https://www.espncricinfo.com/series/ipl-2020-21-1210595/delhi-capitals-vs-kolkata-knight-riders-16th-match-1216515/ball-by-ball-commentary"]
-    for url in urls:
-        driver_obj = scroll_page_to_get_data(driver, url)
+    urls = ["https://www.espncricinfo.com/series/8048/scorecard/1175356/chennai-super-kings-vs-royal-challengers-bangalore-1st-match-indian-premier-league-2019",
+    "https://www.espncricinfo.com/series/8048/scorecard/1175357/kolkata-knight-riders-vs-sunrisers-hyderabad-2nd-match-indian-premier-league-2019",
+    "https://www.espncricinfo.com/series/8048/scorecard/1175358/mumbai-indians-vs-delhi-capitals-3rd-match-indian-premier-league-2019"
+    ]
+
+    for idx, url in enumerate(urls):
+        driver_obj = scroll_page_to_get_data(driver, idx, url)
         run_data = scrape_runs_per_ball_data(driver_obj)
         ball_data = scrape_balls_of_innings(driver_obj)
         runs_list = get_list_of_runs(run_data)
