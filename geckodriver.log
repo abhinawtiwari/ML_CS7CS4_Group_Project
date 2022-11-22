@@ -390,3 +390,57 @@ JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch res
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1669076489740	geckodriver	INFO	Listening on 127.0.0.1:63700
+1669076490256	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63701" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0s/3kzr7mhx0n1bv8ms2vykptm40000gn/T/rust_mozprofilePZBIXE"
+1669076490801	Marionette	INFO	Marionette enabled
+2022-11-22 00:21:30.858 plugin-container[40218:1342777] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-22 00:21:30.859 plugin-container[40218:1342777] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-22 00:21:30.878 plugin-container[40218:1342777] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-22 00:21:30.878 plugin-container[40218:1342777] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-22 00:21:30.878 plugin-container[40218:1342805] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-22 00:21:30.878 plugin-container[40218:1342805] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669076490938	Marionette	INFO	Listening on port 63709
+Read port: 63709
+WebDriver BiDi listening on ws://127.0.0.1:63701
+1669076491087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/0s/3kzr7mhx0n1bv8ms2vykptm40000gn/T/rust_mozprofilePZBIXE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63701/devtools/browser/ad9e1e47-db0c-4bc4-920a-774573888e48
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 543 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4755299179&moatClientLevel2=3093171720&moatClientLevel3=6125181546&moatClientLevel4=138336998334&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=banner&zMoatSW=033a9168a553413f96fa77ae88b05566&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=970x250&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2022-11-22 00:21:38.786 plugin-container[40226:1343199] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-22 00:21:38.786 plugin-container[40226:1343199] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-22 00:21:38.789 plugin-container[40226:1343199] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-22 00:21:38.789 plugin-container[40226:1343199] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-22 00:21:38.789 plugin-container[40226:1343208] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-22 00:21:38.789 plugin-container[40226:1343208] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 5854 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4755299179&moatClientLevel2=3093171720&moatClientLevel3=6126485038&moatClientLevel4=138410515231&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=033a9168a553413f96fa77ae88b05566&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669076584826	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 7278 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669076624024	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4755299179&moatClientLevel2=2876276528&moatClientLevel3=5729071425&moatClientLevel4=138289044346&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=incontentstrip&zMoatSW=033a9168a553413f96fa77ae88b05566&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=298x50&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 4113 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4755299179&moatClientLevel2=2876276528&moatClientLevel3=5729071425&moatClientLevel4=138289044346&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=incontentstrip&zMoatSW=033a9168a553413f96fa77ae88b05566&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=298x50&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1669076728401	Marionette	INFO	Stopped listening on port 59659
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.

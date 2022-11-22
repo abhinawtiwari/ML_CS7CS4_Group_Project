@@ -161,6 +161,15 @@ def prepare_csv(writer,final_ball_list,final_run_list):
 
     print("Total", total)
 
+def prepareUrlsToScrape():
+    file1 = open('url_extraction/2019_links.txt', 'r')
+    Lines = file1.readlines()
+    
+    list = []
+    for line in Lines:
+        list.append(line)
+    print(list)
+    return list
 
 def main():
     # driver = webdriver.Chrome('/Users/aokiji/Downloads/chromedriver')
@@ -170,12 +179,11 @@ def main():
     f = open("iplScore.csv","w")
     writer = csv.writer(f)
     writer.writerow(headers)
-    urls = ["https://www.espncricinfo.com/series/8048/scorecard/1175356/chennai-super-kings-vs-royal-challengers-bangalore-1st-match-indian-premier-league-2019",
-    "https://www.espncricinfo.com/series/8048/scorecard/1175357/kolkata-knight-riders-vs-sunrisers-hyderabad-2nd-match-indian-premier-league-2019",
-    "https://www.espncricinfo.com/series/8048/scorecard/1175358/mumbai-indians-vs-delhi-capitals-3rd-match-indian-premier-league-2019"
-    ]
+
+    urls = prepareUrlsToScrape()
 
     for idx, url in enumerate(urls):
+        print('starting scraping for url ', url)
         driver_obj = scroll_page_to_get_data(driver, idx, url)
         run_data = scrape_runs_per_ball_data(driver_obj)
         ball_data = scrape_balls_of_innings(driver_obj)
