@@ -12,5 +12,7 @@ Members:
 Issue faced: 
     - endless scrolling on dynamically loaded pages. In order to scroll the appropriate amount, we utilized Selenium to dynamically calculate the amount of down and up scroll based on page height.
     - The estimation of the scroll height was hampered by the pages' dynamic ads. Therefore, monitoring was required to ensure that the scraping was being done correctly.
+    - After studying the html and css layout of the webpage, we thought that we could get the runs scored per ball data from the tag class='ds-leading-none ds-mb-0.5' but few balls had no commentary for them, hence the tag was different for them. This led to empty string being fetched for these tags and code breaking. To solve this we took the parent tag for such class. 
+    - The problem faced with taking parent tag i.e.ds-ml-4 lg:ds-ml-3 was that we had commentary data along with run data. For this we just split the string on newline and took the first element.
 
 3) Trained model
