@@ -6,7 +6,8 @@ from selenium.webdriver.common.by import By
 from urllib.parse import urljoin
 import csv
 
-year = "2020"
+year = "2017"
+
 team_name_dict = {
     "CSK":"Chennai Super Kings",
     "DC":"Delhi Capitals",
@@ -119,6 +120,7 @@ def get_list_of_balls(ball_elems):
 
 
 def extract_run(runs):
+    run = 0
     if '(no ball) FOUR' in runs:
         run = 5
     elif '(no ball) 1' in runs:
@@ -193,13 +195,13 @@ def prepare_csv(writer, match_id, team_name, venue_name, final_ball_list,final_r
     print("Total", total)
 
 def prepareUrlsToScrape():
-    file1 = open('url_extraction/test_links.txt', 'r')
+    file1 = open('url_extraction/' + year +'_links.txt', 'r')
     Lines = file1.readlines()
     
     list = []
     for line in Lines:
         list.append(line)
-    print(list)
+    # print(list)
     return list
 
 def main():
@@ -207,7 +209,7 @@ def main():
     driver = webdriver.Firefox()
 
     headers =["match_id","team_name","venue_name","ball_no","run","is_wide","is_noBall","Wicket","is_legBye","isBye","totalScore"]
-    f = open("iplScore.csv","w")
+    f = open("scraped_data/" + year + "_iplScore.csv","w")
     writer = csv.writer(f)
     writer.writerow(headers)
 
