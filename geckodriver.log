@@ -674,3 +674,1018 @@ JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch res
 JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 7078 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4755299179&moatClientLevel2=3093171720&moatClientLevel3=6125181546&moatClientLevel4=138336938693&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=incontent&zMoatSW=5f993f770a624bb09f2921f54bb7d044&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=300x600&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 6950 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 6518 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669325059008	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4755299179&moatClientLevel2=3093171720&moatClientLevel3=6125181546&moatClientLevel4=138336938693&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=incontent&zMoatSW=5f993f770a624bb09f2921f54bb7d044&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=300x600&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 1765 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 21 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4755299179&moatClientLevel2=3093171720&moatClientLevel3=6125181546&moatClientLevel4=138336938693&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=incontent&zMoatSW=5f993f770a624bb09f2921f54bb7d044&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=300x600&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 3012 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669325187271	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 6340 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4755299179&moatClientLevel2=3093171720&moatClientLevel3=6125181546&moatClientLevel4=138336938693&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=incontent&zMoatSW=5f993f770a624bb09f2921f54bb7d044&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=300x600&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 4151 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669325251700	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 5348 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4755299179&moatClientLevel2=3093171720&moatClientLevel3=6125181546&moatClientLevel4=138336938693&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=incontent&zMoatSW=5f993f770a624bb09f2921f54bb7d044&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=300x600&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 6089 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 5637 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669325327952	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4755299179&moatClientLevel2=3093171720&moatClientLevel3=6125181546&moatClientLevel4=138336938693&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=incontent&zMoatSW=5f993f770a624bb09f2921f54bb7d044&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=300x600&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 419 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 1363 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669325392012	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4755299179&moatClientLevel2=3093171720&moatClientLevel3=6125181546&moatClientLevel4=138336938693&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=incontent&zMoatSW=5f993f770a624bb09f2921f54bb7d044&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=300x600&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 2641 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1669326077437	geckodriver	INFO	Listening on 127.0.0.1:56292
+1669326077954	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56293" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0s/3kzr7mhx0n1bv8ms2vykptm40000gn/T/rust_mozprofiletbDbJ5"
+1669326079461	Marionette	INFO	Marionette enabled
+2022-11-24 21:41:19.521 plugin-container[55816:1918616] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 21:41:19.521 plugin-container[55816:1918616] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-24 21:41:19.548 plugin-container[55816:1918616] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 21:41:19.548 plugin-container[55816:1918616] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-24 21:41:19.548 plugin-container[55816:1918614] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 21:41:19.548 plugin-container[55816:1918614] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669326079601	Marionette	INFO	Listening on port 56300
+Read port: 56300
+WebDriver BiDi listening on ws://127.0.0.1:56293
+1669326079752	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/0s/3kzr7mhx0n1bv8ms2vykptm40000gn/T/rust_mozprofiletbDbJ5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56293/devtools/browser/b5628d5d-767b-4ad3-80aa-475a11bb042e
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 2558 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138289086625&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=711030f033244bd4a213044a18a520fd&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2022-11-24 21:41:27.101 plugin-container[55824:1919028] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 21:41:27.101 plugin-container[55824:1919028] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-24 21:41:27.105 plugin-container[55824:1919028] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 21:41:27.105 plugin-container[55824:1919028] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-24 21:41:27.105 plugin-container[55824:1919023] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 21:41:27.105 plugin-container[55824:1919023] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 1898 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 6127 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138289086625&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=711030f033244bd4a213044a18a520fd&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 3026 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669326212233	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 3566 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183675&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=711030f033244bd4a213044a18a520fd&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 6591 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1669326289968	geckodriver	INFO	Listening on 127.0.0.1:56653
+1669326290488	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56654" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0s/3kzr7mhx0n1bv8ms2vykptm40000gn/T/rust_mozprofileMoALke"
+2022-11-24 21:44:50.884 plugin-container[55949:1921317] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 21:44:50.884 plugin-container[55949:1921317] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-24 21:44:50.886 plugin-container[55949:1921317] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 21:44:50.886 plugin-container[55949:1921317] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-24 21:44:50.886 plugin-container[55949:1921315] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 21:44:50.886 plugin-container[55949:1921315] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669326290906	Marionette	INFO	Marionette enabled
+1669326290932	Marionette	INFO	Listening on port 56661
+WebDriver BiDi listening on ws://127.0.0.1:56654
+Read port: 56661
+1669326291050	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/0s/3kzr7mhx0n1bv8ms2vykptm40000gn/T/rust_mozprofileMoALke/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56654/devtools/browser/ee2f2d8e-3649-4118-880d-96bd3a7a93b1
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 5531 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138289086625&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=6622c313573a4e6da9add7f8022826d8&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2022-11-24 21:44:57.273 plugin-container[55957:1921714] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 21:44:57.274 plugin-container[55957:1921714] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-24 21:44:57.276 plugin-container[55957:1921714] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 21:44:57.276 plugin-container[55957:1921714] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-24 21:44:57.276 plugin-container[55957:1921724] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 21:44:57.276 plugin-container[55957:1921724] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 1764 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138351042101&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=6622c313573a4e6da9add7f8022826d8&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 7032 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138289086625&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=6622c313573a4e6da9add7f8022826d8&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 3307 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183675&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=6622c313573a4e6da9add7f8022826d8&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 3534 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669326549880	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183675&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=6622c313573a4e6da9add7f8022826d8&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 3319 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183675&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=6622c313573a4e6da9add7f8022826d8&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 2720 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183675&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=6622c313573a4e6da9add7f8022826d8&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 6792 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183675&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=6622c313573a4e6da9add7f8022826d8&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 7054 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669326965264	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183675&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=6622c313573a4e6da9add7f8022826d8&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 1524 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183675&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=6622c313573a4e6da9add7f8022826d8&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 3607 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183675&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=6622c313573a4e6da9add7f8022826d8&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 731 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183675&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=6622c313573a4e6da9add7f8022826d8&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 1650 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183675&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=6622c313573a4e6da9add7f8022826d8&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 7268 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183675&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=6622c313573a4e6da9add7f8022826d8&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 952 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183675&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=6622c313573a4e6da9add7f8022826d8&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 617 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183675&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=6622c313573a4e6da9add7f8022826d8&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669327484597	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 3771 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183675&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=6622c313573a4e6da9add7f8022826d8&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 6934 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183675&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=6622c313573a4e6da9add7f8022826d8&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 3545 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183675&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=6622c313573a4e6da9add7f8022826d8&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 456 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183675&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=6622c313573a4e6da9add7f8022826d8&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 5774 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183675&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=6622c313573a4e6da9add7f8022826d8&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 7607 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183675&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=6622c313573a4e6da9add7f8022826d8&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183675&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=6622c313573a4e6da9add7f8022826d8&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 643 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669327934249	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 5288 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183675&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=6622c313573a4e6da9add7f8022826d8&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669327998150	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 1866 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183675&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=6622c313573a4e6da9add7f8022826d8&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 1015 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669328062494	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183675&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=6622c313573a4e6da9add7f8022826d8&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 1711 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669328126184	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183675&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=6622c313573a4e6da9add7f8022826d8&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669328192735	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 6660 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183675&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=6622c313573a4e6da9add7f8022826d8&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 5781 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183675&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=6622c313573a4e6da9add7f8022826d8&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1669328724546	geckodriver	INFO	Listening on 127.0.0.1:57580
+1669328725066	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57581" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0s/3kzr7mhx0n1bv8ms2vykptm40000gn/T/rust_mozprofile01WcJw"
+1669328725725	Marionette	INFO	Marionette enabled
+2022-11-24 22:25:25.837 plugin-container[57010:1943946] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 22:25:25.837 plugin-container[57010:1943946] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-24 22:25:25.866 plugin-container[57010:1943946] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 22:25:25.866 plugin-container[57010:1943946] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-24 22:25:25.866 plugin-container[57010:1943944] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 22:25:25.866 plugin-container[57010:1943944] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669328725889	Marionette	INFO	Listening on port 57588
+Read port: 57588
+WebDriver BiDi listening on ws://127.0.0.1:57581
+1669328726062	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/0s/3kzr7mhx0n1bv8ms2vykptm40000gn/T/rust_mozprofile01WcJw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57581/devtools/browser/25fe1dde-1f20-4db8-bc80-5e69326d300d
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 980 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2022-11-24 22:25:32.680 plugin-container[57023:1944412] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 22:25:32.680 plugin-container[57023:1944412] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-24 22:25:32.686 plugin-container[57023:1944412] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 22:25:32.686 plugin-container[57023:1944412] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-24 22:25:32.686 plugin-container[57023:1944417] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 22:25:32.686 plugin-container[57023:1944417] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1669328776361	geckodriver	INFO	Listening on 127.0.0.1:57755
+1669328776881	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57756" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0s/3kzr7mhx0n1bv8ms2vykptm40000gn/T/rust_mozprofileIozHlc"
+2022-11-24 22:26:17.530 plugin-container[57061:1945177] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 22:26:17.530 plugin-container[57061:1945177] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-24 22:26:17.532 plugin-container[57061:1945177] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 22:26:17.532 plugin-container[57061:1945177] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-24 22:26:17.532 plugin-container[57061:1945179] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 22:26:17.533 plugin-container[57061:1945179] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669328777559	Marionette	INFO	Marionette enabled
+1669328777687	Marionette	INFO	Listening on port 57763
+Read port: 57763
+WebDriver BiDi listening on ws://127.0.0.1:57756
+1669328777825	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/0s/3kzr7mhx0n1bv8ms2vykptm40000gn/T/rust_mozprofileIozHlc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57756/devtools/browser/c0df5264-e2b3-4f19-b780-c9a41afa7f36
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 2314 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669328781264	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 6270 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669328898891	geckodriver	INFO	Listening on 127.0.0.1:57890
+1669328899410	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57891" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0s/3kzr7mhx0n1bv8ms2vykptm40000gn/T/rust_mozprofileEXbRhk"
+2022-11-24 22:28:19.939 plugin-container[57125:1946932] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 22:28:19.939 plugin-container[57125:1946932] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-24 22:28:19.941 plugin-container[57125:1946932] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 22:28:19.941 plugin-container[57125:1946932] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-24 22:28:19.942 plugin-container[57125:1946934] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 22:28:19.942 plugin-container[57125:1946934] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669328899960	Marionette	INFO	Marionette enabled
+1669328900089	Marionette	INFO	Listening on port 57898
+Read port: 57898
+WebDriver BiDi listening on ws://127.0.0.1:57891
+1669328900199	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/0s/3kzr7mhx0n1bv8ms2vykptm40000gn/T/rust_mozprofileEXbRhk/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57891/devtools/browser/9f352b8d-abb1-4e6c-b1c0-722465c1021b
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1669328980935	geckodriver	INFO	Listening on 127.0.0.1:57998
+1669328981452	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57999" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0s/3kzr7mhx0n1bv8ms2vykptm40000gn/T/rust_mozprofileUKDS9n"
+2022-11-24 22:29:41.970 plugin-container[57160:1947812] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 22:29:41.972 plugin-container[57160:1947812] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-24 22:29:41.986 plugin-container[57160:1947812] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 22:29:41.986 plugin-container[57160:1947812] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-24 22:29:41.986 plugin-container[57160:1947838] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 22:29:41.986 plugin-container[57160:1947838] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669328981987	Marionette	INFO	Marionette enabled
+1669328982052	Marionette	INFO	Listening on port 58010
+Read port: 58010
+WebDriver BiDi listening on ws://127.0.0.1:57999
+1669328982164	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/0s/3kzr7mhx0n1bv8ms2vykptm40000gn/T/rust_mozprofileUKDS9n/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57999/devtools/browser/f7f10881-63da-4d68-8cec-7ce52b775051
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 5696 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4755299179&moatClientLevel2=3093171720&moatClientLevel3=6125181546&moatClientLevel4=138336998334&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=banner&zMoatSW=8f1bd798667c47c2abd2378d53f31838&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=970x250&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2022-11-24 22:29:49.028 plugin-container[57169:1948253] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 22:29:49.028 plugin-container[57169:1948253] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-24 22:29:49.048 plugin-container[57169:1948253] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 22:29:49.048 plugin-container[57169:1948253] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-24 22:29:49.049 plugin-container[57169:1948261] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 22:29:49.049 plugin-container[57169:1948261] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 3241 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 324 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138351790133&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=8f1bd798667c47c2abd2378d53f31838&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 589 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 4399 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183822&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=8f1bd798667c47c2abd2378d53f31838&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 3014 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 5495 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183822&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=8f1bd798667c47c2abd2378d53f31838&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 6989 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 7290 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183822&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=8f1bd798667c47c2abd2378d53f31838&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 6351 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://c.bannerflow.net/scripts/feed.ad23164c7a0d96ed1ddb.js, line 1: Error: Could not fetch feed data: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://c.bannerflow.net/scripts/feed.ad23164c7a0d96ed1ddb.js, line 1: Error: Could not fetch feed data: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 3499 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183822&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=8f1bd798667c47c2abd2378d53f31838&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669329387069	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 672 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183822&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=8f1bd798667c47c2abd2378d53f31838&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 514 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669329450980	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 6299 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183822&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=8f1bd798667c47c2abd2378d53f31838&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 165 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1669329514574	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 193 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183822&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=8f1bd798667c47c2abd2378d53f31838&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 1609 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://c.bannerflow.net/scripts/feed.ad23164c7a0d96ed1ddb.js, line 1: Error: Could not fetch feed data: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://c.bannerflow.net/scripts/feed.ad23164c7a0d96ed1ddb.js, line 1: Error: Could not fetch feed data: TypeError: NetworkError when attempting to fetch resource.
+1669329578965	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 4414 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183822&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=8f1bd798667c47c2abd2378d53f31838&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 5826 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669329642428	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 1704 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183822&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=8f1bd798667c47c2abd2378d53f31838&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 2845 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 1476 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669329706705	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183822&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=8f1bd798667c47c2abd2378d53f31838&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 6157 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669329771938	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 3500 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183822&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=8f1bd798667c47c2abd2378d53f31838&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 6138 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 117 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669329835864	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183822&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=8f1bd798667c47c2abd2378d53f31838&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 4227 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 5634 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183822&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=8f1bd798667c47c2abd2378d53f31838&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 417 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource:///modules/TabsList.jsm, line 527: TypeError: this.dropIndicator is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 767 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183822&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=8f1bd798667c47c2abd2378d53f31838&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 4666 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 353 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669330027996	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183822&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=8f1bd798667c47c2abd2378d53f31838&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 900 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669330091446	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 6494 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183822&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=8f1bd798667c47c2abd2378d53f31838&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 3564 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669330155367	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 2471 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183822&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=8f1bd798667c47c2abd2378d53f31838&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 3997 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669330219289	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 5070 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183822&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=8f1bd798667c47c2abd2378d53f31838&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 1457 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 5089 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669330283974	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183822&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=8f1bd798667c47c2abd2378d53f31838&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 6627 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669330348599	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 6205 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183822&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=8f1bd798667c47c2abd2378d53f31838&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 1558 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 4535 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669330412536	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183822&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=8f1bd798667c47c2abd2378d53f31838&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+1669330476842	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 412 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183822&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=8f1bd798667c47c2abd2378d53f31838&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 4938 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+1669330541233	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 5635 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183822&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=8f1bd798667c47c2abd2378d53f31838&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 1788 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://c.bannerflow.net/scripts/feed.ad23164c7a0d96ed1ddb.js, line 1: Error: Could not fetch feed data: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://c.bannerflow.net/scripts/feed.ad23164c7a0d96ed1ddb.js, line 1: Error: Could not fetch feed data: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 4905 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669330604938	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183822&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=8f1bd798667c47c2abd2378d53f31838&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 4827 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+1669330669797	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 2656 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183822&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=8f1bd798667c47c2abd2378d53f31838&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 4200 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 5320 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669330734028	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183822&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=8f1bd798667c47c2abd2378d53f31838&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 6321 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 5863 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669330797998	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183822&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=8f1bd798667c47c2abd2378d53f31838&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 3298 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 2145 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669330861987	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183822&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=8f1bd798667c47c2abd2378d53f31838&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 2694 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+1669330926276	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 210 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183822&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=8f1bd798667c47c2abd2378d53f31838&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 5294 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+1669330990620	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 4982 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138352183822&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=8f1bd798667c47c2abd2378d53f31838&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 1380 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+1669331732398	geckodriver	INFO	Listening on 127.0.0.1:60765
+1669331732922	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60766" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0s/3kzr7mhx0n1bv8ms2vykptm40000gn/T/rust_mozprofile8uR1gI"
+1669331734492	Marionette	INFO	Marionette enabled
+1669331734600	Marionette	INFO	Listening on port 60773
+Read port: 60773
+WebDriver BiDi listening on ws://127.0.0.1:60766
+1669331734754	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2022-11-24 23:15:34.885 plugin-container[58441:1974841] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 23:15:34.885 plugin-container[58441:1974841] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-24 23:15:35.028 plugin-container[58441:1974841] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 23:15:35.028 plugin-container[58441:1974841] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-24 23:15:35.028 plugin-container[58441:1974839] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 23:15:35.028 plugin-container[58441:1974839] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/0s/3kzr7mhx0n1bv8ms2vykptm40000gn/T/rust_mozprofile8uR1gI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60766/devtools/browser/9954eeb1-addf-408c-95c1-71e8ee04b35a
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 5678 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138351790133&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=096f7ea38e3a427ab673a5ac82147344&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2022-11-24 23:15:41.219 plugin-container[58452:1975359] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 23:15:41.219 plugin-container[58452:1975359] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-24 23:15:41.221 plugin-container[58452:1975359] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 23:15:41.221 plugin-container[58452:1975359] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-24 23:15:41.221 plugin-container[58452:1975354] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 23:15:41.221 plugin-container[58452:1975354] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 6858 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669332010036	Marionette	INFO	Stopped listening on port 56661
+1669332012632	Marionette	INFO	Stopped listening on port 57763
+1669332014459	Marionette	INFO	Stopped listening on port 57898
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 379: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+1669332017184	Marionette	INFO	Stopped listening on port 58010
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1669332019943	Marionette	INFO	Stopped listening on port 60773
+1669332820748	geckodriver	INFO	Listening on 127.0.0.1:61083
+1669332821266	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61084" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0s/3kzr7mhx0n1bv8ms2vykptm40000gn/T/rust_mozprofiletGRGCK"
+2022-11-24 23:33:41.873 plugin-container[58740:1985632] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 23:33:41.873 plugin-container[58740:1985632] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669332821898	Marionette	INFO	Marionette enabled
+2022-11-24 23:33:41.980 plugin-container[58740:1985632] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 23:33:41.980 plugin-container[58740:1985632] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-24 23:33:41.980 plugin-container[58740:1985659] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 23:33:41.980 plugin-container[58740:1985659] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669332822040	Marionette	INFO	Listening on port 61091
+Read port: 61091
+WebDriver BiDi listening on ws://127.0.0.1:61084
+1669332822184	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/0s/3kzr7mhx0n1bv8ms2vykptm40000gn/T/rust_mozprofiletGRGCK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61084/devtools/browser/b6a59f97-b55d-44fa-b9f8-c7859c074069
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 5461 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138351083988&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=e2e87618bcff47cbbf46baf78019e85d&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2022-11-24 23:33:49.494 plugin-container[58750:1985978] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 23:33:49.494 plugin-container[58750:1985978] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-24 23:33:49.498 plugin-container[58750:1985978] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 23:33:49.498 plugin-container[58750:1985978] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-24 23:33:49.498 plugin-container[58750:1985979] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 23:33:49.498 plugin-container[58750:1985979] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 3869 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 2509 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669332891134	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138346529493&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=e2e87618bcff47cbbf46baf78019e85d&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 7691 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1669332923926	geckodriver	INFO	Listening on 127.0.0.1:61362
+1669332924446	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61363" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0s/3kzr7mhx0n1bv8ms2vykptm40000gn/T/rust_mozprofileS0ukVX"
+2022-11-24 23:35:24.913 plugin-container[58812:1987231] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 23:35:24.914 plugin-container[58812:1987231] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-24 23:35:24.918 plugin-container[58812:1987231] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 23:35:24.918 plugin-container[58812:1987231] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-24 23:35:24.918 plugin-container[58812:1987239] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 23:35:24.918 plugin-container[58812:1987239] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669332924932	Marionette	INFO	Marionette enabled
+1669332925064	Marionette	INFO	Listening on port 61370
+Read port: 61370
+WebDriver BiDi listening on ws://127.0.0.1:61363
+1669332925162	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/0s/3kzr7mhx0n1bv8ms2vykptm40000gn/T/rust_mozprofileS0ukVX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61363/devtools/browser/4d08db3e-4c75-456c-a919-b39f47efa859
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138351083988&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=416a8dafaec64b94b88c752ea13c06b9&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2022-11-24 23:35:32.464 plugin-container[58820:1987570] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 23:35:32.464 plugin-container[58820:1987570] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-24 23:35:32.467 plugin-container[58820:1987570] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 23:35:32.467 plugin-container[58820:1987570] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-24 23:35:32.467 plugin-container[58820:1987582] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-24 23:35:32.467 plugin-container[58820:1987582] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 7473 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 6868 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4709703339&moatClientLevel2=2555596275&moatClientLevel3=5087998044&moatClientLevel4=138351042101&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=416a8dafaec64b94b88c752ea13c06b9&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 1268 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4755299179&moatClientLevel2=3093171720&moatClientLevel3=6126485038&moatClientLevel4=138410515231&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=instream&zMoatSW=416a8dafaec64b94b88c752ea13c06b9&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=1x3&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669333123513	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 4827 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4755299179&moatClientLevel2=3093171720&moatClientLevel3=6125181546&moatClientLevel4=138336998334&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=banner&zMoatSW=416a8dafaec64b94b88c752ea13c06b9&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=970x250&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 1504 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669333187771	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4755299179&moatClientLevel2=3093171720&moatClientLevel3=6125181546&moatClientLevel4=138336998334&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=banner&zMoatSW=416a8dafaec64b94b88c752ea13c06b9&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=970x250&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 6022 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669333251813	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4755299179&moatClientLevel2=3093171720&moatClientLevel3=6125181546&moatClientLevel4=138336998334&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=banner&zMoatSW=416a8dafaec64b94b88c752ea13c06b9&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=970x250&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 5375 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669333316480	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4755299179&moatClientLevel2=3093171720&moatClientLevel3=6125181546&moatClientLevel4=138336998334&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=banner&zMoatSW=416a8dafaec64b94b88c752ea13c06b9&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=970x250&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 7514 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4755299179&moatClientLevel2=3093171720&moatClientLevel3=6125181546&moatClientLevel4=138336998334&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=banner&zMoatSW=416a8dafaec64b94b88c752ea13c06b9&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=970x250&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 6890 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4755299179&moatClientLevel2=3093171720&moatClientLevel3=6125181546&moatClientLevel4=138336998334&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=banner&zMoatSW=416a8dafaec64b94b88c752ea13c06b9&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=970x250&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1669333509004	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 1455 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4755299179&moatClientLevel2=3093171720&moatClientLevel3=6125181546&moatClientLevel4=138336998334&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=banner&zMoatSW=416a8dafaec64b94b88c752ea13c06b9&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=970x250&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4755299179&moatClientLevel2=3093171720&moatClientLevel3=6125181546&moatClientLevel4=138336998334&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=banner&zMoatSW=416a8dafaec64b94b88c752ea13c06b9&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=970x250&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 2407 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 2335 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4755299179&moatClientLevel2=3093171720&moatClientLevel3=6125181546&moatClientLevel4=138336998334&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=banner&zMoatSW=416a8dafaec64b94b88c752ea13c06b9&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=970x250&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 4637 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4755299179&moatClientLevel2=3093171720&moatClientLevel3=6125181546&moatClientLevel4=138336998334&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=banner&zMoatSW=416a8dafaec64b94b88c752ea13c06b9&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=970x250&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 3337 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4755299179&moatClientLevel2=3093171720&moatClientLevel3=6125181546&moatClientLevel4=138336998334&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=banner&zMoatSW=416a8dafaec64b94b88c752ea13c06b9&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=970x250&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 2683 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4755299179&moatClientLevel2=3093171720&moatClientLevel3=6125181546&moatClientLevel4=138336998334&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=banner&zMoatSW=416a8dafaec64b94b88c752ea13c06b9&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=970x250&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 1973 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669334070255	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4755299179&moatClientLevel2=3093171720&moatClientLevel3=6125181546&moatClientLevel4=138336998334&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=banner&zMoatSW=416a8dafaec64b94b88c752ea13c06b9&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=970x250&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 598 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4755299179&moatClientLevel2=3093171720&moatClientLevel3=6125181546&moatClientLevel4=138336998334&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=banner&zMoatSW=416a8dafaec64b94b88c752ea13c06b9&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=970x250&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 76 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4755299179&moatClientLevel2=3093171720&moatClientLevel3=6125181546&moatClientLevel4=138336998334&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=banner&zMoatSW=416a8dafaec64b94b88c752ea13c06b9&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=970x250&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 136 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4755299179&moatClientLevel2=3093171720&moatClientLevel3=6125181546&moatClientLevel4=138336998334&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=banner&zMoatSW=416a8dafaec64b94b88c752ea13c06b9&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=970x250&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 4834 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4755299179&moatClientLevel2=3093171720&moatClientLevel3=6125181546&moatClientLevel4=138336998334&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=banner&zMoatSW=416a8dafaec64b94b88c752ea13c06b9&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=970x250&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 5216 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 1051 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669334391425	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4755299179&moatClientLevel2=3093171720&moatClientLevel3=6125181546&moatClientLevel4=138336998334&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=banner&zMoatSW=416a8dafaec64b94b88c752ea13c06b9&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=970x250&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 6443 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4755299179&moatClientLevel2=3093171720&moatClientLevel3=6125181546&moatClientLevel4=138336998334&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=banner&zMoatSW=416a8dafaec64b94b88c752ea13c06b9&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=970x250&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 4174 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4755299179&moatClientLevel2=3093171720&moatClientLevel3=6125181546&moatClientLevel4=138336998334&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=banner&zMoatSW=416a8dafaec64b94b88c752ea13c06b9&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=970x250&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 1695 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4755299179&moatClientLevel2=3093171720&moatClientLevel3=6125181546&moatClientLevel4=138336998334&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=banner&zMoatSW=416a8dafaec64b94b88c752ea13c06b9&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=970x250&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 5558 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4755299179&moatClientLevel2=3093171720&moatClientLevel3=6125181546&moatClientLevel4=138336998334&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=banner&zMoatSW=416a8dafaec64b94b88c752ea13c06b9&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=970x250&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 4548 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669334724593	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4755299179&moatClientLevel2=3093171720&moatClientLevel3=6125181546&moatClientLevel4=138336998334&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=banner&zMoatSW=416a8dafaec64b94b88c752ea13c06b9&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=970x250&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 3508 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669334789304	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4755299179&moatClientLevel2=3093171720&moatClientLevel3=6125181546&moatClientLevel4=138336998334&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=banner&zMoatSW=416a8dafaec64b94b88c752ea13c06b9&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=970x250&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 253 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669334853408	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4755299179&moatClientLevel2=3093171720&moatClientLevel3=6125181546&moatClientLevel4=138336998334&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=banner&zMoatSW=416a8dafaec64b94b88c752ea13c06b9&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=970x250&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 7507 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669334918175	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4755299179&moatClientLevel2=3093171720&moatClientLevel3=6125181546&moatClientLevel4=138336998334&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=banner&zMoatSW=416a8dafaec64b94b88c752ea13c06b9&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=970x250&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 407 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669334982316	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4755299179&moatClientLevel2=3093171720&moatClientLevel3=6125181546&moatClientLevel4=138336998334&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=banner&zMoatSW=416a8dafaec64b94b88c752ea13c06b9&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=970x250&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 6047 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669335046326	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://z.moatads.com/espndfp832188684382/moatad.js#moatClientLevel1=4755299179&moatClientLevel2=3093171720&moatClientLevel3=6125181546&moatClientLevel4=138336998334&moatClientSlicer1=21782482296&moatClientSlicer2=21792707307&zMoatPS=banner&zMoatSW=416a8dafaec64b94b88c752ea13c06b9&zMoatAdUnitPath=/21783347309/espn.cricinfo.com/game/commentary&zMoatMData=&zMoatSZ=970x250&zMoatMGV=&zMoatMSafety=&zMoatMMV=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 7062 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669335110697	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://wassets.hscicdn.com/_next/static/chunks/pages/_app-7c18d6ddf94460130ee6.js, line 1: Error: The operation was aborted. 
+1669338899162	Marionette	INFO	Stopped listening on port 61370

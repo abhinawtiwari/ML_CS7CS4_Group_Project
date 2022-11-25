@@ -6,7 +6,7 @@ from selenium.webdriver.common.by import By
 from urllib.parse import urljoin
 import csv
 
-year = "2017"
+year = "2018"
 
 team_name_dict = {
     "CSK":"Chennai Super Kings",
@@ -75,7 +75,8 @@ def scroll_page_to_get_data(driver, idx, url):
         # Break the loop when the height we need to scroll to is larger than the total scroll height
         if (screen_height) * i > scroll_height:
             print("Inside break")
-            driver.execute_script("window.scrollTo(0, -200)")  
+            driver.execute_script("window.scrollTo(0, -2000)")
+            time.sleep(1)
     return driver
 
 
@@ -96,11 +97,14 @@ def get_venue_played(driver):
     return venue_name
 
 def get_team_name(driver):
-    team_name = driver.find_element(By.XPATH,"//span[@class='ds-text-tight-s ds-font-regular ds-text-ui-typo']")
-    print("What is the team name", team_name.text)
-    if team_name.text in team_name_dict.keys():
-        return team_name_dict[team_name.text]
-    return ''
+    try:
+        team_name = driver.find_element(By.XPATH,"//span[@class='ds-text-tight-s ds-font-regular ds-text-ui-typo']")
+        print("What is the team name", team_name.text)
+        if team_name.text in team_name_dict.keys():
+            return team_name_dict[team_name.text]
+    except:
+        print("An exception occurred in get_team_name")
+        return ''
 
 
 def get_list_of_runs(runs_elems):
@@ -207,14 +211,14 @@ def prepareUrlsToScrape():
 def main():
     # driver = webdriver.Chrome()
     driver = webdriver.Firefox()
+    match_id = 1
 
     headers =["match_id","team_name","venue_name","ball_no","run","is_wide","is_noBall","Wicket","is_legBye","isBye","totalScore"]
-    f = open("scraped_data/" + year + "_iplScore.csv","w")
+    f = open("scraped_data/" + year + "_iplScore.csv", "a")
     writer = csv.writer(f)
     writer.writerow(headers)
 
     urls = prepareUrlsToScrape()
-    match_id = 1
 
     for idx, url in enumerate(urls):
         print('starting scraping for url ', url)
