@@ -2,11 +2,12 @@ import time
 from selenium import webdriver
 from bs4 import BeautifulSoup
 from selenium.webdriver.common.by import By
+from selenium.webdriver.common.action_chains import ActionChains
 
 from urllib.parse import urljoin
 import csv
 
-year = "2018"
+year = "2017"
 
 team_name_dict = {
     "CSK":"Chennai Super Kings",
@@ -65,7 +66,7 @@ def scroll_page_to_get_data(driver, idx, url):
     screen_height = driver.execute_script("return window.screen.height;")   # get the screen height of the web
     i = 1
 
-    for count in range(0,20):
+    for count in range(0,22):
         # scroll one screen height each time
         driver.execute_script("window.scrollTo(0, {screen_height}*{i});".format(screen_height=screen_height, i=0.7*i))  
         i += 1
@@ -75,8 +76,18 @@ def scroll_page_to_get_data(driver, idx, url):
         # Break the loop when the height we need to scroll to is larger than the total scroll height
         if (screen_height) * i > scroll_height:
             print("Inside break")
-            driver.execute_script("window.scrollTo(0, -2000)")
+            element = driver.find_element(By.XPATH, "//*[@id='taboola-below-section-front-thumbnails']")
+            # actions = ActionChains(driver)
+            # actions.move_to_element(element).perform()
+            # location = element.location
+            size = element.size
+            w, h = size['width'], size['height']
+
+            # driver.execute_script("arguments[0].scrollIntoView();", element)
+            print('height of ad: ', h)
+            driver.execute_script("window.scrollTo(0, -1 * ({h} + 100))".format(h=h))
             time.sleep(1)
+
     return driver
 
 
