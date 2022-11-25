@@ -2,11 +2,13 @@ import time
 from selenium import webdriver
 from bs4 import BeautifulSoup
 from selenium.webdriver.common.by import By
+from selenium.webdriver.common.action_chains import ActionChains
 
 from urllib.parse import urljoin
 import csv
 
-year = "2020"
+year = "2017"
+
 team_name_dict = {
     "CSK":"Chennai Super Kings",
     "DC":"Delhi Capitals",
@@ -64,7 +66,7 @@ def scroll_page_to_get_data(driver, idx, url):
     screen_height = driver.execute_script("return window.screen.height;")   # get the screen height of the web
     i = 1
 
-    for count in range(0,20):
+    for count in range(0,22):
         # scroll one screen height each time
         driver.execute_script("window.scrollTo(0, {screen_height}*{i});".format(screen_height=screen_height, i=0.7*i))  
         i += 1
@@ -74,7 +76,18 @@ def scroll_page_to_get_data(driver, idx, url):
         # Break the loop when the height we need to scroll to is larger than the total scroll height
         if (screen_height) * i > scroll_height:
             print("Inside break")
-            driver.execute_script("window.scrollTo(0, -200)")  
+            element = driver.find_element(By.XPATH, "//*[@id='taboola-below-section-front-thumbnails']")
+            # actions = ActionChains(driver)
+            # actions.move_to_element(element).perform()
+            # location = element.location
+            size = element.size
+            w, h = size['width'], size['height']
+
+            # driver.execute_script("arguments[0].scrollIntoView();", element)
+            print('height of ad: ', h)
+            driver.execute_script("window.scrollTo(0, -1 * ({h} + 100))".format(h=h))
+            time.sleep(1)
+
     return driver
 
 
@@ -95,11 +108,14 @@ def get_venue_played(driver):
     return venue_name
 
 def get_team_name(driver):
-    team_name = driver.find_element(By.XPATH,"//span[@class='ds-text-tight-s ds-font-regular ds-text-ui-typo']")
-    print("What is the team name", team_name.text)
-    if team_name.text in team_name_dict.keys():
-        return team_name_dict[team_name.text]
-    return ''
+    try:
+        team_name = driver.find_element(By.XPATH,"//span[@class='ds-text-tight-s ds-font-regular ds-text-ui-typo']")
+        print("What is the team name", team_name.text)
+        if team_name.text in team_name_dict.keys():
+            return team_name_dict[team_name.text]
+    except:
+        print("An exception occurred in get_team_name")
+        return ''
 
 
 def get_list_of_runs(runs_elems):
@@ -119,6 +135,7 @@ def get_list_of_balls(ball_elems):
 
 
 def extract_run(runs):
+    run = 0
     if '(no ball) FOUR' in runs:
         run = 5
     elif '(no ball) 1' in runs:
@@ -193,26 +210,26 @@ def prepare_csv(writer, match_id, team_name, venue_name, final_ball_list,final_r
     print("Total", total)
 
 def prepareUrlsToScrape():
-    file1 = open('url_extraction/test_links.txt', 'r')
+    file1 = open('url_extraction/' + year +'_links.txt', 'r')
     Lines = file1.readlines()
     
     list = []
     for line in Lines:
         list.append(line)
-    print(list)
+    # print(list)
     return list
 
 def main():
     # driver = webdriver.Chrome()
     driver = webdriver.Firefox()
+    match_id = 1
 
     headers =["match_id","team_name","venue_name","ball_no","run","is_wide","is_noBall","Wicket","is_legBye","isBye","totalScore"]
-    f = open("iplScore.csv","w")
+    f = open("scraped_data/" + year + "_iplScore.csv", "a")
     writer = csv.writer(f)
     writer.writerow(headers)
 
     urls = prepareUrlsToScrape()
-    match_id = 1
 
     for idx, url in enumerate(urls):
         print('starting scraping for url ', url)
