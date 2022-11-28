@@ -7,7 +7,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 from urllib.parse import urljoin
 import csv
 
-year = "2017"
+year = "2018"
 
 team_name_dict = {
     "CSK":"Chennai Super Kings",
