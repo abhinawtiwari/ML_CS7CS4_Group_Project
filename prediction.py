@@ -23,8 +23,6 @@ def encode_and_bind(original_dataframe, feature_to_encode):
 new_df = encode_and_bind(ipl2020_data,"team_name")
 print(new_df.head())
 
-
-
 X = new_df.iloc[:,[3,4,5,6,7,8,9,11,12,13,14,15,16,17,18]].values
 y = new_df.iloc[:,10].values
 

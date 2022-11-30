@@ -1,0 +1,75 @@
+match_id,team_name,venue_name,ball_no,run,is_wide,is_noBall,Wicket,is_legBye,isBye,totalScore
+2022_1,Kolkate Night Riders, Wankhede,18.3,4,0,0,0,0,0,133
+2022_2,Delhi Capitals, Brabourne,18.2,4,0,0,0,0,0,179
+2022_3,Punjab Kings, DY Patil,18.6,4,0,0,0,0,0,208
+2022_4,Gujarat Titans, Wankhede,19.4,4,0,0,0,0,0,161
+2022_5,Sunrisers Hyderabad, Pune,19.6,1,0,0,0,0,0,149
+2022_6,Royal Challengers Bangalore, DY Patil,19.2,4,0,0,0,0,0,132
+2022_7,Lucknow Super Giants, Brabourne,19.3,1,0,0,0,0,0,211
+2022_8,Kolkate Night Riders, Wankhede,14.3,6,0,0,0,0,0,141
+2022_9,Mumbai Indians, DY Patil,19.6,0,0,0,1,0,0,170
+2022_10,Delhi Capitals, Pune,19.6,1,0,0,0,0,0,157
+2022_11,Chennai Super Kings, Brabourne,17.6,0,0,0,1,0,0,126
+2022_12,Sunrisers Hyderabad, DY Patil,19.6,0,0,0,1,0,0,157
+2022_13,Royal Challengers Bangalore, Wankhede,19.1,6,0,0,0,0,0,173
+2022_14,Kolkate Night Riders, Pune,15.6,6,0,0,0,0,0,162
+2022_15,Lucknow Super Giants, DY Patil,19.4,6,0,0,0,0,0,155
+2022_16,Gujarat Titans, Brabourne,19.6,6,0,0,0,0,0,190
+2022_17,Sunrisers Hyderabad, DY Patil,17.4,4,0,0,0,0,0,155
+2022_18,Royal Challengers Bangalore, Pune,18.3,4,0,0,0,0,0,152
+2022_19,Kolkate Night Riders, Brabourne,19.4,0,0,0,1,0,0,171
+2022_20,Lucknow Super Giants, Wankhede,19.6,6,0,0,0,0,0,162
+2022_21,Sunrisers Hyderabad, DY Patil,19.1,6,0,0,0,0,0,168
+2022_22,Royal Challengers Bangalore, DY Patil,19.6,4,0,0,0,0,0,193
+2022_23,Mumbai Indians, Pune,19.6,0,0,0,1,0,0,186
+2022_24,Rajasthan Royals, DY Patil,19.6,0,0,0,0,0,0,155
+2022_25,Sunrisers Hyderabad, Brabourne,17.5,6,0,0,0,0,0,176
+2022_26,Mumbai Indians, Brabourne,19.6,0,0,0,0,0,0,181
+2022_27,Delhi Capitals, Wankhede,19.6,1,0,0,0,0,0,173
+2022_28,Sunrisers Hyderabad, DY Patil,18.5,6,0,0,0,0,0,152
+2022_29,Gujarat Titans, Pune,19.5,2,0,0,0,0,0,170
+2022_30,Kolkate Night Riders, Brabourne,19.4,0,0,0,1,0,0,210
+2022_31,Lucknow Super Giants, DY Patil,19.6,0,0,0,0,0,0,163
+2022_32,Delhi Capitals, Brabourne,10.3,4,0,0,0,0,0,119
+2022_33,Chennai Super Kings, DY Patil,19.6,4,0,0,0,0,0,156
+2022_34,Delhi Capitals, Wankhede,19.6,0,0,0,1,0,0,203
+2022_35,Kolkate Night Riders, DY Patil,19.6,0,0,0,0,0,0,148
+2022_36,Sunrisers Hyderabad, Brabourne,7.6,6,0,0,0,0,0,72
+2022_37,Mumbai Indians, Wankhede,19.6,0,0,0,0,0,0,132
+2022_38,Chennai Super Kings, Wankhede,19.6,1,0,0,0,0,0,176
+2022_39,Royal Challengers Bangalore, Pune,19.3,0,0,0,1,0,0,115
+2022_40,Gujarat Titans, Wankhede,19.6,6,0,0,0,0,0,199
+2022_41,Delhi Capitals, Wankhede,18.6,6,0,0,0,0,0,150
+2022_42,Punjab Kings, Pune,19.6,0,0,0,0,0,0,133
+2022_43,Gujarat Titans, Brabourne,19.3,4,0,0,0,0,0,174
+2022_44,Mumbai Indians, DY Patil,19.2,6,0,0,0,0,0,161
+2022_45,Delhi Capitals, Wankhede,19.6,6,0,0,0,0,0,189
+2022_46,Sunrisers Hyderabad, Pune,19.6,1,0,0,0,0,0,189
+2022_47,Kolkate Night Riders, Wankhede,19.1,6,0,0,0,0,0,158
+2022_48,Punjab Kings, DY Patil,15.6,4,0,0,0,0,0,145
+2022_49,Chennai Super Kings, Pune,19.6,1,0,0,0,0,0,160
+2022_50,Sunrisers Hyderabad, Brabourne,19.6,0,0,0,0,0,0,186
+2022_51,Gujarat Titans, Brabourne,19.6,0,0,0,0,0,0,172
+2022_52,Rajasthan Royals, Wankhede,19.4,1,0,0,0,0,0,190
+2022_53,Kolkate Night Riders, Pune,14.3,2,0,0,1,0,0,101
+2022_54,Sunrisers Hyderabad, Wankhede,19.2,0,0,0,1,0,0,125
+2022_55,Delhi Capitals, DY Patil,17.4,0,0,0,1,0,0,117
+2022_56,Mumbai Indians, DY Patil,17.3,0,0,0,1,0,0,113
+2022_57,Lucknow Super Giants, Pune,13.5,0,0,0,1,0,0,82
+2022_58,Delhi Capitals, DY Patil,18.1,3,0,0,0,0,0,161
+2022_59,Mumbai Indians, Wankhede,14.5,6,0,0,0,0,0,103
+2022_60,Royal Challengers Bangalore, Brabourne,19.6,1,0,0,0,0,0,111
+2022_61,Sunrisers Hyderabad, Pune,19.6,0,0,0,0,0,0,123
+2022_62,Gujarat Titans, Wankhede,19.1,4,0,0,0,0,0,137
+2022_63,Lucknow Super Giants, Brabourne,19.6,1,0,0,0,0,0,154
+2022_64,Punjab Kings, DY Patil,19.6,1,0,0,0,0,0,142
+2022_65,Mumbai Indians, Wankhede,19.6,6,0,0,0,0,0,190
+2022_66,Kolkate Night Riders, DY Patil,19.6,0,0,0,1,0,0,208
+2022_67,Royal Challengers Bangalore, Wankhede,18.4,4,0,0,0,0,0,170
+2022_68,Rajasthan Royals, Brabourne,19.5,1,1,0,0,0,0,151
+2022_69,Mumbai Indians, Wankhede,19.1,4,0,0,0,0,0,160
+2022_70,Punjab Kings, Wankhede,15.1,4,0,0,0,0,0,160
+2022_71,Gujarat Titans, Eden Gardens,19.3,6,0,0,0,0,0,191
+2022_72,Lucknow Super Giants, Eden Gardens,19.6,0,0,0,0,0,0,193
+2022_73,Rajasthan Royals, Ahmedabad,18.1,6,0,0,0,0,0,161
+2022_74,Gujarat Titans, Ahmedabad,18.1,6,0,0,0,0,0,133
