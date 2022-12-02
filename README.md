@@ -17,4 +17,10 @@ Issue faced:
     - scrolled up by a certain number of pixels when hitting page bottom. This number had to varied and checked to get a right number. But that didn't work for some cases because of variable height of the ads container at the bottom of the page. Then, scrolled up by a number of pixels equal to the height of the ad container. There were issue with this method also, for ads that came in right side cards of the page.
     - script couldn't extract team name for some matches which had to be filled manually later.
     
-3) Trained model
+3) Trained model and compared performance
+
+Steps to execute the project:
+Extracted urls for various years are stored in the url_extraction folder.
+- run the matchwise_scraper.py with year variable changed to the year for which you want to scrape.
+- scraped files are stored in scraped_data folder.
+- jupyter notebooks are kept in the notebooks folder containing files for various model predictions.
